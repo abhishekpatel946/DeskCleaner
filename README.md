@@ -128,13 +128,8 @@ Project Link: [https://github.com/abhishekpatel946/DeskCleaner](https://github.c
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
 * [Kalle Hallden](http://github.com/kalleHallden)
 
-## Credits
-* Kalle Hallden
-* TotalPC Cleaner
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
