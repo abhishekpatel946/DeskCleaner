@@ -2,7 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-
+[![GitHub license](https://img.shields.io/github/license/abhishekpatel946/DeskCleaner)](https://github.com/abhishekpatel946/DeskCleaner/blob/master/LICENSE)
 
 
 <!-- PROJECT LOGO -->
@@ -113,7 +113,6 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
 
 
 <!-- CONTACT -->
